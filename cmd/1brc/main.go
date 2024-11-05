@@ -8,7 +8,7 @@ import(
   "strconv"
 )
 
-type Measure struct {
+type Measure struct 
   Min float64
   Max float64
   Sum float64
